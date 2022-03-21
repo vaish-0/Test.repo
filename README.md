@@ -1,2 +1,3 @@
 # Test.repo
-echo this is my project.
+java --version
+
